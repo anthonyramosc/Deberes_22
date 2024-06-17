@@ -1,0 +1,28 @@
+
+**¿Para que se usa el comando runserver en nestjs?**
+
+**A. ¿Asignar una variable?** 
+
+**B. ¿Revisar la version?** 
+
+**C. ¿Levantar un proyecto ?**
+**ANSWER: C**
+
+
+**¿El Hola Mundo en que direccion se encuentra?**
+
+**A. ¿Local host 200?** 
+
+**B. ¿local host 1000?** 
+
+**C. ¿Local Host 3000 ?**
+**ANSWER: C**
+
+**¿Que lenguaje se usa en nestjs ?**
+
+**A. ¿Ruby?** 
+
+**B. ¿Kotlin?** 
+
+**C. ¿TypeScript?**
+**ANSWER: C**

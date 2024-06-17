@@ -1,0 +1,14 @@
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Ramos suda\Second ciclo\.Net\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

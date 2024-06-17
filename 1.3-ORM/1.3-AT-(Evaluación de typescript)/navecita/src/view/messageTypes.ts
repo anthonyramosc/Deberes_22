@@ -1,0 +1,1 @@
+export type MessageType = 'exploration' | 'recolection' | 'event';
